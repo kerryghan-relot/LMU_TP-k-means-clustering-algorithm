@@ -10,7 +10,7 @@ The goal here is not to get the best implementation using scikit-learn right awa
 ## What will you find in it
 
 - Implementation of k-means algorithm 
-- Loss function $L(A,\mu)=||X-A \cdot \mu||_2^2$
+- Loss function $L(A,\mu)= \| X-A \cdot \mu \|_2^2$
 - Verification to count the number of right assignations
 - Plot of the converged value of $L(A,\mu)$ for every $k$
 - Time comparison between my implementation and the scikit-learn one.
