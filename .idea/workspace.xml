@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e2d10e-e7d8-425d-8576-102168d0a1f4" name="Changes" comment="slight modification and project renaming test">
+    <list default="true" id="d1e2d10e-e7d8-425d-8576-102168d0a1f4" name="Changes" comment="Added HAC class with single link and complete link method. Still have some more test to run in order to ensure they are working as intended.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k-means development.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/k-means development.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +100,7 @@
       <workItem from="1726468357969" duration="1072000" />
       <workItem from="1726595543143" duration="829000" />
       <workItem from="1726603217302" duration="5257000" />
-      <workItem from="1726745808389" duration="9721000" />
+      <workItem from="1726745808389" duration="11533000" />
     </task>
     <task id="LOCAL-00001" summary="Start of the project">
       <option name="closed" value="true" />
@@ -151,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726596061816</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added HAC class with single link and complete link method. Still have some more test to run in order to ensure they are working as intended.">
+      <option name="closed" value="true" />
+      <created>1726756359493</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726756359493</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +182,7 @@
     <MESSAGE value="Added a class to manage the algorithm and add some plotting." />
     <MESSAGE value="renamed the project to simply &quot;k-means&quot;" />
     <MESSAGE value="slight modification and project renaming test" />
-    <option name="LAST_COMMIT_MESSAGE" value="slight modification and project renaming test" />
+    <MESSAGE value="Added HAC class with single link and complete link method. Still have some more test to run in order to ensure they are working as intended." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HAC class with single link and complete link method. Still have some more test to run in order to ensure they are working as intended." />
   </component>
 </project>
